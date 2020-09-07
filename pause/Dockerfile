@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/pause:latest
+FROM k8s.gcr.io/pause:3.2
 MAINTAINER lun.su@daocloud.io
 

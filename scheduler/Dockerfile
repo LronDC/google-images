@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/kube-scheduler:latest
+FROM k8s.gcr.io/kube-scheduler:v1.19.0
 MAINTAINER lun.su@daocloud.io
 
