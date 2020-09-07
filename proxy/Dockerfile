@@ -1,0 +1,2 @@
+FROM k8s.gcr.io/kube-proxy:latest
+MAINTAINER lun.su@daocloud.io
